@@ -1,3 +1,4 @@
+Esercio N°7
 
 -L'utente inserisce il numero A
 poi
